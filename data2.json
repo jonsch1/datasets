@@ -1,0 +1,92 @@
+"name": "Life",
+	"children": [{
+		"name": "Biomedical Sciences",
+		"children": [{
+				"name": "The Lego Bricks of Life",
+				"children": [{
+						"name": "Forms of Life",
+						"size": 15
+					},
+					{
+						"name": "Evolutionary Mechanisms",
+						"size": 15
+					},
+					{
+						"name": "Macromolecules",
+						"size": 15
+					},
+					{
+						"name": "Organelles",
+						"size": 15
+					},
+					{
+						"name": "Bacterium vs Eukaryote",
+						"size": 20
+					},
+					{
+						"name": "Cellular Communication",
+						"size": 10
+					},
+					{
+						"name": "Tissues/Organ Function",
+						"size": 10
+					}
+				]
+			},
+			{
+				"name": "Homeostasis and Organ Systems",
+				"children": [{
+						"name": "Nutrients and Digestion",
+						"size": 15
+					},
+					{
+						"name": "Circulation",
+						"size": 15
+					},
+					{
+						"name": "Respiration",
+						"size": 15
+					},
+					{
+						"name": "Gastro-Intestinal Tract",
+						"size": 15
+					},
+					{
+						"name": "Urinary and Renal System",
+						"size": 20
+					},
+					{
+						"name": "Organs Communication",
+						"size": 20
+					}
+				]
+			},
+			{
+				"name": "Introduction to Statistics",
+				"children": [{
+						"name": "Summary Measures and Variables",
+						"size": 20
+					},
+					{
+						"name": "Different distributions",
+						"size": 20
+					},
+					{
+						"name": "Statistical tests using SPSS",
+						"size": 20
+					},
+					{
+						"name": "T-test vs. Linear Regression",
+						"size": 20
+					},
+					{
+						"name": "Interpretation of results",
+						"size": 20
+					}
+				]
+
+			}
+		]
+
+	}]
+}

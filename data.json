@@ -2,64 +2,22 @@
  "name": "Asset Allocation",
  "children": [ 
   { 
-     "name": "Bonds",
+     "name": "Biomedical Sciences",
      "children": [
-      {"name": "Total Bond market fund",
+      {"name": "The Lego Bricks of Life",
       "children": [
         {"name": "High Credit Quality","size":70},
         {"name": "Medium Credit Quality","size":30}]},
-      {"name": "Wellington Fund",
+      {"name": "Homeostasis and Organ Systems",
       "children": [
         {"name": "High Credit Quality","size":40},
         {"name": "Medium Credit Quality","size":40},
         {"name": "Low Credit Quality","size":20}]},
-      {"name": "Wellsley Fund",
+      {"name": "Introduction to Statistics",
        "children": [
         {"name": "High Credit Quality","size":40},
         {"name": "Medium Credit Quality","size":40},
         {"name": "Low Credit Quality","size":20}]},
-      {"name": "International Bond market fund",
-       "children": [
-        {"name": "High Credit Quality","size":50},
-        {"name": "Medium Credit Quality","size":20},
-        {"name": "Low Credit Quality","size":30}]}
-			]
-    },
-  {
-   "name": "Stocks",
-   "children": [
-      {"name": "Total Stock Market Fund",
-    "children": [ 
-    {"name": "Large cap", "size": 60},
-    {"name": "Mid cap", "size": 20}, 
-    {"name": "small cap", "size": 20}
-     ]},
-      {"name": "Wellington Fund", 
-      "children": [ 
-    {"name": "Large cap", "size": 15},
-    {"name": "Mid cap", "size": 60},
-    {"name": "small cap", "size": 25}
-       ]},
-      {"name": "Index 500 fund", 
-      "children": [ 
-    {"name": "Large cap", "size": 60},
-    {"name": "Mid cap", "size": 10},
-    {"name": "small cap", "size": 30}
-      ]},
-      {"name": "International Stock market fund", 
-      "children": [ 
-    {"name": "Large cap", "size": 10},
-    {"name": "Mid cap", "size": 30},
-    {"name": "small cap", "size": 60}
-      ]}
-     ]}
-    ,
-    {
-     "name": "Short term Reserves",
-     "children": [
-      {"name": "Prime money market", "size":50},
-      {"name": "Federal Prime money market", "size":50}
-     ]
-    }
+      
    ]
   }

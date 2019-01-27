@@ -65,15 +65,23 @@
 			{
 				"name": "Introduction to Statistics",
 				"children": [{
-						"name": "Thema 1",
-						"size": 40
+						"name": "Summary Measures and Variables",
+						"size": 20
 					},
 					{
-						"name": "Thema 2",
-						"size": 40
+						"name": "Population/Sample/Sampling-Distribution",
+						"size": 20
 					},
 					{
-						"name": "Thema 3",
+						"name": "Statistical tests using SPSS",
+						"size": 20
+					},
+					{
+						"name": "T-test vs. Linear Regression",
+						"size": 20
+					},
+					{
+						"name": "Interpretation of results",
 						"size": 20
 					}
 				]

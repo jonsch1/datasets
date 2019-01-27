@@ -1,5 +1,5 @@
-{
-
+"name": "Life",
+	"children": [{
 		"name": "Biomedical Sciences",
 		"children": [{
 				"name": "The Lego Bricks of Life",
@@ -68,7 +68,7 @@
 						"size": 20
 					},
 					{
-						"name": "Different Distributions",
+						"name": "Different distributions",
 						"size": 20
 					},
 					{
@@ -86,5 +86,7 @@
 				]
 
 			}
-	]
+		]
+
+	}]
 }

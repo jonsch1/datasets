@@ -1,6 +1,5 @@
 {
-	"name": "Asset Allocation",
-	"children": [{
+
 		"name": "Biomedical Sciences",
 		"children": [{
 				"name": "The Lego Bricks of Life",
@@ -87,7 +86,5 @@
 				]
 
 			}
-		]
-
-	}]
+	]
 }

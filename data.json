@@ -5,27 +5,59 @@
 		"children": [{
 				"name": "The Lego Bricks of Life",
 				"children": [{
-						"name": "Thema 1",
-						"size": 70
+						"name": "Forms of Life",
+						"size": 15
 					},
 					{
-						"name": "Thema 2",
-						"size": 30
+						"name": "Evolutionary Mechanisms",
+						"size": 15
+					},
+					{
+						"name": "Macromolecules",
+						"size": 15
+					},
+					{
+						"name": "Organelles",
+						"size": 15
+					},
+					{
+						"name": "Bacterium vs Eukaryote",
+						"size": 20
+					},
+					{
+						"name": "Cellular Communication",
+						"size": 10
+					},
+					{
+						"name": "Tissues/Organ Function",
+						"size": 10
 					}
 				]
 			},
 			{
 				"name": "Homeostasis and Organ Systems",
 				"children": [{
-						"name": "Thema 1",
-						"size": 40
+						"name": "Nutrients and Digestion",
+						"size": 15
 					},
 					{
-						"name": "Thema 2",
-						"size": 40
+						"name": "Circulation",
+						"size": 15
 					},
 					{
-						"name": "Thema 3",
+						"name": "Respiration",
+						"size": 15
+					},
+					{
+						"name": "Gastro-Intestinal Tract",
+						"size": 15
+					},
+					{
+						"name": "Urinary and Renal System",
+						"size": 20
+					},
+					{
+						"name": "Organs Communication",
 						"size": 20
 					}
 				]

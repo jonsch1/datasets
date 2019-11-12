@@ -1,0 +1,78 @@
+{
+		"name": "Biomedical Sciences",
+		"children": [{
+				"name": "Year 1",
+				"children": [{
+						"name": "The Lego Bricks of Life",
+						"size": 20
+					},
+					{
+						"name": "Homeostasis and Organ Systems",
+						"size": 20
+					},
+					{
+						"name": "Statistics",
+						"size": 10
+					},
+					{
+						"name": "Brain, Behaviour and Movement",
+						"size": 20
+					},
+					{
+						"name": "Human Genetics, Reproduction, Embryology",
+						"size": 20
+					},
+					{
+						"name": "Critical Appraisal of Biomed. Publications",
+						"size": 10
+					}
+				]
+			},
+			{
+				"name": "Year 2",
+				"children": [{
+						"name": "Threats and Defense Mechanisms",
+						"size": 18
+					},
+					{
+						"name": "Development, Ageing, Disease",
+						"size": 18
+					},
+					{
+						"name": "Non-Invasive Techniques in Biomed. Research",
+						"size": 10
+					},
+					{
+						"name": "Human Intermediary Metabolism",
+						"size": 18
+					},
+					{
+						"name": "Biorhythms in Homeostasis",
+						"size": 18
+					},
+					{
+						"name": "Sensorymotor Behaviour, Neuroplasticity",
+						"size": 18
+					}
+				]
+			},
+			{
+				"name": "Year 3",
+				"children": [{
+						"name": "Minor",
+						"size": 50
+					},
+					{
+						"name": "The core of Biomedical Sciences",
+						"size": 15
+					},
+					{
+						"name": "Internship+Thesis",
+						"size": 35
+					}
+				]
+
+			}
+		]
+
+}
